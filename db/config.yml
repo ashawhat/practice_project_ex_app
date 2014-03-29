@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: app_main
+
+test:
+  adapter : postgresql
+  database: app_test
